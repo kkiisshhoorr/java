@@ -1,0 +1,13 @@
+Date of Joining : 14-July-2020
+Experience      : 60 years
+Employee ID     : 1001
+Department ID   : 101.0
+Department Name : Human Resources
+Name            : Amit Sharmaji
+Basic Salary    : 500000.0
+Bonus           : 10000.0
+Tax Deducted    : 20000.0
+Insurance       : 5000.0
+Allowance       : 10000.0
+Net Salary      : 495000.0
+====================================
