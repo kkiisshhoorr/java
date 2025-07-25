@@ -1,0 +1,13 @@
+Date of Joining : 14-July-2023
+Experience      : 2 years
+Employee ID     : 1002
+Department ID   : 101.0
+Department Name : Human Resources
+Name            : A Sharm
+Basic Salary    : 60000.0
+Bonus           : 5000.0
+Tax Deducted    : 4000.0
+Insurance       : 3000.0
+Allowance       : 2000.0
+Net Salary      : 60000.0
+====================================

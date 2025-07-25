@@ -1,0 +1,13 @@
+Date of Joining : 14-July-2023
+Experience      : 2 years
+Employee ID     : 1000
+Department ID   : 101.0
+Department Name : Human Resources
+Name            : Amit Sharma
+Basic Salary    : 50000.0
+Bonus           : 7000.0
+Tax Deducted    : 6500.0
+Insurance       : 2000.0
+Allowance       : 3000.0
+Net Salary      : 51500.0
+====================================
